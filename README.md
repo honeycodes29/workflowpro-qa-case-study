@@ -11,5 +11,6 @@ The purpose of this casestudy is to demonstrate my understanding of:
 
 The detailed casestudy solution is documented in Google Docsas per the submission guidelines.
 **Google Docs casestudy link :**
+https://docs.google.com/document/d/1goqVWa9pag_Dru-f3YuAsEoRltn1WUKBCfIn50RCd-Q/edit?usp=sharing
 
 This submission focuss on testing strategy, design thinking, and clear explanation of approaches.
