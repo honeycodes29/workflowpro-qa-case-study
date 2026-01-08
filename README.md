@@ -2,7 +2,7 @@ QA automation case study- WorkFlow Pro
 Candidate: Hanee Wararkar
 Role: QA Automation Intern 
 
-This repository contains the submission for the QA automation case study for the WorkFlow Pro B2B SaaS platform.
+This repository contains test plan documentation, pseudocode-based automation flows, test data strategy, and a detailed case study document.
 The purpose of this casestudy is to demonstrate my understanding of:
 - QA testing princliples and automation concepts
 - Identifying and resolving flaky tests
